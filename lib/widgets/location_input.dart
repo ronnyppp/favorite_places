@@ -8,7 +8,7 @@ import 'package:location/location.dart';
 import 'package:http/http.dart' as http;
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
-const apiKey = String.fromEnvironment('YOUR_API_KEY');
+const apiKey = String.fromEnvironment('MAPS_API_KEY');
 
 class LocationInput extends StatefulWidget {
   const LocationInput({super.key, required this.onSelectLocation});
