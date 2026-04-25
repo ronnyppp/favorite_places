@@ -8,7 +8,7 @@ import 'package:location/location.dart';
 import 'package:http/http.dart' as http;
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
-const apiKey = String.fromEnvironment('MAPS_API_KEY');
+import 'package:favorite_places/config/api_keys.dart';
 
 class LocationInput extends StatefulWidget {
   const LocationInput({super.key, required this.onSelectLocation});
@@ -41,7 +41,7 @@ class _LocationInputState extends State<LocationInput> {
     final response = await http.get(url);
     final respData = json.decode(response.body);
     final address = respData['results'][0]['formatted_address'];
-
+    print("FINAL STATIC MAP URL: $url");
     setState(() {
       _pickedLocation = PlaceLocation(
         latitude: latitude,
