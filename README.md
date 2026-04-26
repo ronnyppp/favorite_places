@@ -1,16 +1,40 @@
-# favorite_places
+# 📍 Favorite Places
 
-A new Flutter project.
+Favorite Places is a mobile app that lets users capture and store meaningful locations through an interactive map experience. It combines real-time map interaction, camera input, and persistent local storage to create a simple but practical location-saving workflow. Uses Flutter, Google Maps API and SQlite.
 
-## Getting Started
+---
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Interactive Location Map Selection
 
-A few resources to get you started if this is your first Flutter project:
+- Camera Integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Accurate Location Snapshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Persistent Local Storage (SQlite)
+
+- Structured Form Handling
+
+---
+## 🚀 Running the project
+1. Clone the Repository
+
+git clone https://github.com/ronnyppp/favorite_places.git
+
+cd favorite_places
+
+2. Create a Google Maps API Key
+   
+Click get started and create a project.
+
+Generate and copy API Key.
+
+In Google Maps project enable:
+
+Maps SDK for Android, Geocoding API and Maps Static API.
+
+3. Run the app in IDE
+
+flutter pub get
+
+flutter run --dart-define=MAPS_API_KEY=your_api_key
