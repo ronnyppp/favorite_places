@@ -19,10 +19,10 @@ Favorite Places is a mobile app that lets users capture and store meaningful loc
 ## 📸 Images
 
 <p>
-   <img width="250"  alt="Screenshot_20260425_234100" src="https://github.com/user-attachments/assets/0dbfc58c-e3e8-40cc-bba6-60415ecdeabc" />
-   <img width="250" alt="Screenshot_20260426_003039" src="https://github.com/user-attachments/assets/08b964e4-2319-4c35-9241-62d5eef9770d" />
-   <img width="250" alt="Screenshot_20260425_234214" src="https://github.com/user-attachments/assets/2de5d8b6-de84-4250-921a-50ec77427cae" />
-   <img width="250" alt="Screenshot_20260425_234233" src="https://github.com/user-attachments/assets/daa56ca6-7fb3-4e32-979e-81d5ecc13682" />
+   <img width="225"  alt="Screenshot_20260425_234100" src="https://github.com/user-attachments/assets/0dbfc58c-e3e8-40cc-bba6-60415ecdeabc" />
+   <img width="225" alt="Screenshot_20260426_003039" src="https://github.com/user-attachments/assets/08b964e4-2319-4c35-9241-62d5eef9770d" />
+   <img width="225" alt="Screenshot_20260425_234214" src="https://github.com/user-attachments/assets/2de5d8b6-de84-4250-921a-50ec77427cae" />
+   <img width="225" alt="Screenshot_20260425_234233" src="https://github.com/user-attachments/assets/daa56ca6-7fb3-4e32-979e-81d5ecc13682" />
 </p>
 
 ## 🚀 Running the project
